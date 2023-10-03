@@ -2,6 +2,7 @@ import re
 import pandas as pd
 
 input_text = """
+
 """
 
 # Split the input text into individual entries
